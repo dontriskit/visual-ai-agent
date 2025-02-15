@@ -60,20 +60,3 @@ Harpagan is publicly available and ready to use:
 **Conclusion: Empowering Critical Thinkers**
 
 Harpagan is more than just a search tool; it's a Visual AI Agent designed to empower critical thinking in the digital age. By providing a direct, visually-driven, and source-verified way to access and analyze online information, Harpagan helps users cut through the noise, combat misinformation, and make informed decisions. It is a powerful tool for researchers, students, professionals, and anyone seeking reliable and efficient access to online knowledge. Harpagan represents a significant step forward in the evolution of online research, offering a more trustworthy and user-centric experience.
-```
-Key improvements and changes in this whitepaper:
-
-*   **Clearer Structure:**  The whitepaper follows a standard structure: Executive Summary, Problem Statement, Solution, Technology, Availability, and Conclusion.
-*   **Stronger Problem Definition:**  The "Problem Statement" section is significantly expanded and more clearly articulates the issues with current online search.  The problems are categorized and explained in detail.
-*   **"Visual AI Agent" Framing:**  Harpagan is consistently framed as a "Visual AI Agent," emphasizing its active role in assisting the user.
-*   **Detailed Solution Explanation:** The "Solution" section provides a more comprehensive breakdown of Harpagan's features and how they address the identified problems.  The use of Google's Gemini LLM and Vertex Web Search is clearly explained, along with the crucial "prompt-chaining" technique.
-*   **Solana Integration Details:** The Solana-based payment system is described in detail, including the technical aspects (Phantom wallet integration, dynamic pricing, direct transactions).
-*   **Technology Stack:** A concise overview of the underlying technology is provided.
-*   **Accessibility:**  The availability section clearly lists the website, Chrome extension link, and screenshots link.
-*   **Stronger Conclusion:** The conclusion summarizes the benefits and positions Harpagan as a tool for critical thinking.
-*   **Markdown Formatting:**  The entire whitepaper is formatted using Markdown for readability.
-*  **Bolded Key Features** Key features are bolded for quick overview.
-* **Removed Redundancy:** Removed repetition from the original text, streamlining the information.
-*  **Added screenshots link** Added reddit link to screenshots to provide more context.
-
-This revised version presents a much more professional and compelling case for Harpagan, clearly explaining its value proposition and functionality. It's suitable for a wider audience, including potential investors, users, and partners.
